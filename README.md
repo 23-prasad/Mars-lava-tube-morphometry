@@ -1,4 +1,4 @@
-**🛰️ Project Title**
+** Project Title**
 
 Geospatial and Morphometric Characterization of Lava Tubes in Arsia Mons Region, Mars
 
@@ -8,7 +8,7 @@ This project presents a morphometric and geospatial analysis of Martian lava tub
 
 The study integrates remote sensing data, GIS-based feature extraction, and statistical analysis to evaluate relationships between lava tube geometry and collapse patterns.
 
-**🎯 Objective**
+**Objective**
 
 Quantify lava tube geometry using GIS-derived attributes
 Analyse collapse ratios along lava tubes
@@ -18,7 +18,7 @@ Tube length and collapse behaviour
 Pit dimensions and morphological classification
 Derive insights relevant to subsurface stability and exploration suitability
 
-**🛰️ Study Area & Data**
+**Study Area & Data**
 Region: Arsia Mons, Tharsis volcanic province, Mars
 Data Source: Mars Global Cave Candidate Catalog
 Data Type:
@@ -26,7 +26,7 @@ Lava tube polylines
 Pit locations and geometries
 Derived bounding box attributes
 
-**🧪 Methods**
+**Methods**
 Highlights-
   QGIS spatial analysis
   Bounding box extraction
@@ -62,7 +62,7 @@ Distribution analysis of pit dimensions
 3. Structural Implications:
   (Box plot interpretation)Morphometric parameters provide proxies for assessing subsurface stability, relevant for landing site selection and habitat planning.
 
-**🛠 Tools Used**
+**Tools Used**
   1. GIS - QGIS
   2. Data Analysis: Microsoft Excel
   3. Version Control: GitHub
