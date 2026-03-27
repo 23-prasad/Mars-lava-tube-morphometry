@@ -1,4 +1,4 @@
-** Project Title**
+**Project Title**
 
 Geospatial and Morphometric Characterization of Lava Tubes in Arsia Mons Region, Mars
 
@@ -54,7 +54,7 @@ Box-and-whisker plots:
   - Pit Width vs Pit Type
 Distribution analysis of pit dimensions
 
-**📊 Key Results & Insights**
+**Key Results & Insights**
   1. Collapse Behaviour:
     (Collapse ratio trends) Preliminary analysis suggests a trend of increasing collapse ratio with tube length, indicating potential structural limits in longer lava tubes.
 2. Pit Morphometry:
