@@ -55,20 +55,20 @@ Box-and-whisker plots:
 Distribution analysis of pit dimensions
 
 **Key Results & Insights**
-  1. Collapse Behaviour:
-    (Collapse ratio trends) Preliminary analysis suggests a trend of increasing collapse ratio with tube length, indicating potential structural limits in longer lava tubes.
-2. Pit Morphometry:
-  (Pit size distribution)Distinct variations in pit width distributions across pit types suggest different formation or collapse mechanisms.
-3. Structural Implications:
-  (Box plot interpretation)Morphometric parameters provide proxies for assessing subsurface stability, relevant for landing site selection and habitat planning.
+    1. Collapse Behaviour:
+        (Collapse ratio trends) Preliminary analysis suggests a trend of increasing collapse ratio with tube length, indicating potential structural limits in longer lava tubes.
+    2. Pit Morphometry:
+      (Pit size distribution)Distinct variations in pit width distributions across pit types suggest different formation or collapse mechanisms.
+    3. Structural Implications:
+      (Box plot interpretation)Morphometric parameters provide proxies for assessing subsurface stability, relevant for landing site selection and habitat planning.
 
 **Tools Used**
-  1. GIS - QGIS
-  2. Data Analysis: Microsoft Excel
-  3. Version Control: GitHub
+    1. GIS - QGIS
+    2. Data Analysis: Microsoft Excel
+    3. Version Control: GitHub
 
 **Future Work**
-  Integration with high-resolution DEMs (e.g., HiRISE)
-  Automated pit detection using image processing / ML
-  3D modelling of lava tube subsurface geometry
-  Comparative analysis with terrestrial analogues
+    1. Integration with high-resolution DEMs (e.g., HiRISE)
+    2. Automated pit detection using image processing / ML
+    3. 3D modelling of lava tube subsurface geometry
+    4. Comparative analysis with terrestrial analogues
