@@ -8,6 +8,8 @@ This project presents a morphometric and geospatial analysis of Martian lava tub
 
 The study integrates remote sensing data, GIS-based feature extraction, and statistical analysis to evaluate relationships between lava tube geometry and collapse patterns.
 
+This project work was developed as an assignment of GMAP Planetary mapping winter school 2026 and base data was provided by the school.
+
 **Objective**
 
 Quantify lava tube geometry using GIS-derived attributes
@@ -19,6 +21,7 @@ Pit dimensions and morphological classification
 Derive insights relevant to subsurface stability and exploration suitability
 
 **Study Area & Data**
+
 Region: Arsia Mons, Tharsis volcanic province, Mars
 Data Source: Mars Global Cave Candidate Catalog
 Data Type:
@@ -27,15 +30,19 @@ Pit locations and geometries
 Derived bounding box attributes
 
 **Methods**
+
 Highlights-
   QGIS spatial analysis
   Bounding box extraction
   Excel statistical plots
   
 **1. Data Preparation**
+
 Import and preprocess shapefiles in GIS
 Validate geometry and attribute consistency
+
 **2. Morphometric Analysis**
+
 Extraction of:
   Total tube length
   Collapsed vs non-collapsed segments
@@ -44,10 +51,14 @@ Generation of pit bounding boxes:
   Width
   Length
   Aspect ratio
+  
 **3. Spatial Analysis**
+
   Mapping lava tube networks
   Identifying clustering of collapse features
+  
 **4. Statistical Analysis**
+
 Scatter plots:
  - Tube Length vs Collapse Ratio
 Box-and-whisker plots:
@@ -55,6 +66,7 @@ Box-and-whisker plots:
 Distribution analysis of pit dimensions
 
 **Key Results & Insights**
+
     1. Collapse Behaviour:
         (Collapse ratio trends) Preliminary analysis suggests a trend of increasing collapse ratio with tube length, indicating potential structural limits in longer lava tubes.
     2. Pit Morphometry:
